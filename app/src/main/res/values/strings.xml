@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tcalc</string>
+    <string name="button_pi"> &#928;</string>
+    <string name="button_braop">"("</string>
+    <string name="button_bracl">")"</string>
+    <string name="button_cos">"cos"</string>
+</resources>
